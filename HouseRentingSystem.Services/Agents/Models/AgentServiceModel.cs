@@ -2,6 +2,7 @@
 {
     public class AgentServiceModel
     {
+        // fullName
         public string FullName { get; set; }
         public string Email { get; init; }
         public string PhoneNumber { get; init; }
